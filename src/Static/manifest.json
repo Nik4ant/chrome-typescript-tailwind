@@ -1,0 +1,15 @@
+{
+    "name": "Your extension title",
+    "description": "Your extension version",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": [
+
+    ],
+    "action": {
+        "default_popup": "PopupPage/popup.html"
+    }
+}
