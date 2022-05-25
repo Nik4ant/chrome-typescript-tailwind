@@ -10,7 +10,7 @@ git clone -b main https://github.com/Nik4ant/chrome-typescript-tailwind.git
 You can read about this technology on [official website](https://www.solidjs.com/) 
 or watch [100 seconds video](https://youtu.be/hw3Bx5vxKl0) by Fireship.
 
-Clone [solid-js](link)
+Clone [solid-js](https://github.com/Nik4ant/chrome-typescript-tailwind/tree/solid-js)
 branch: 
 ```shell
 git clone -b solid-js https://github.com/Nik4ant/chrome-typescript-tailwind.git
