@@ -40,9 +40,3 @@ Over this:
 ```
 The max you'll have to do is to change a few lines inside 
 webpack config file
-
----
-# TODO:
-1. Post article about this thingy on medium and other websites?
-2. Share with fellas on Discord
-3. Add optimizations for prod builds (images compression? if so I need to create an assets folder)
